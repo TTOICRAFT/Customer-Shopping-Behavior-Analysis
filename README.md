@@ -2,7 +2,7 @@
 
 An end-to-end retail analytics project exploring customer purchase patterns, product preferences, discounts, shipping, and subscriptions. The goal is to turn transaction data into practical ideas for customer engagement, merchandising, and marketing.
 
-PowerBI Dashboard: https://app.powerbi.com/links/w6nES2AwCA?ctid=c3e6f62e-6df3-47ef-8bbe-316d21f5771f&pbi_source=linkShare
+[View the Customer Shopping Behavior dashboard](https://app.powerbi.com/links/w6nES2AwCA?ctid=c3e6f62e-6df3-47ef-8bbe-316d21f5771f&pbi_source=linkShare)
 
 ## Project overview
 
