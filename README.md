@@ -53,6 +53,7 @@ These are descriptive findings from the included dataset; they show patterns and
 - PostgreSQL
 - SQLAlchemy and psycopg2
 - Power BI Desktop
+- Gamma.app (For presentation)
 
 ## Getting started
 
